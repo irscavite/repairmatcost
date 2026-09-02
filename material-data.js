@@ -2,6 +2,12 @@ window.MATERIAL_DATA = {
   "source": "DAILY CONSUMPTION REPORT SEPTEMBER 2026 / Database",
   "damageCount": 487,
   "mappings": [
+       {
+      "damage": "No material use",
+      "material": "",
+      "rate": ,
+      "itemCode": ""
+    },
     {
       "damage": "FLOOR SN 2X2FT",
       "material": "FLOORBOARD Size",
