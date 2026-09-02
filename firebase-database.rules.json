@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "repairRecords": {
+      ".read": true,
+      ".write": true,
+      ".indexOn": ["repairDate"]
+    }
+  }
+}
