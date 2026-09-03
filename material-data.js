@@ -8285,6 +8285,10 @@ window.MATERIAL_DATA = {
   ],
   "specs": [
     {
+      "name": "Welding Rod",
+      "itemCode": "-"
+    },
+    {
       "name": "Black Enamel Paint",
       "itemCode": "RFC-00055"
     },
