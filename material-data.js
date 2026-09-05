@@ -8290,9 +8290,9 @@ window.MATERIAL_DATA = {
     }
   ],
   "specs": [
-       {
+    {
       "name": "Welding Rod",
-      "itemCode": "-"
+      "itemCode": "---"
     },
     {
       "name": "Black Enamel Paint",
