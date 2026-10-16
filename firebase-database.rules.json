@@ -1,0 +1,15 @@
+{
+  "rules": {
+    "repairRecords": {
+      ".read": true,
+      ".write": true,
+      ".indexOn": [
+        "repairDate"
+      ]
+    },
+    "materialSpecSettings": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
